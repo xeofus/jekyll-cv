@@ -6,7 +6,7 @@ fork: false
 contact:
   email: xeofus@gmail.com
   github: xeofus
-  linkedin: adilet-begimkanov
+  linkedin: abegimkanov
   phone: +996 775 990 090
   gitlab: 
   twitter: 
@@ -39,9 +39,9 @@ profile: |
 
 # Experience
 experience:
-  - role: Software Engineer
-    time: 2020-Present
-    company: Google
+  - role: Tech Lead
+    time: 2022-Present
+    company: OJSC Commercial Bank Kyrgyzstan 
     details: |
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
       tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
@@ -49,11 +49,11 @@ experience:
       Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
       fugiat nulla pariatur.
     technologies_used: | 
-      Go, Angular, Typescript, C++
+      Java, Docker, Kubernetes, PostgreSQL
   
-  - role: Researcher
-    time: 2016-2020
-    company: Microsoft
+  - role: Head of Development
+    time: 2020-2022
+    company: VEON
     details: |
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
       tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
@@ -61,38 +61,36 @@ experience:
       Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
       fugiat nulla pariatur.
     technologies_used: | 
-      Python, Tensorflow, Keras, Matlab
+      Java, Angular, Docker, PostgreSQL
 
 publications:
-  - title: Random title of paper. An interesting one.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference, 2016
+  - title: Angular, GraphQL API, JWT.
+    link: "https://habr.com/ru/post/336082/"
+    authors: Adilet Begimkanov
 
-  - title: Second title of paper. An interesting one too.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference again, 2018
+  - title: Angular with Clarity Design System from VmWare
+    link: "https://habr.com/ru/post/339294/"
+    authors: Adilet Begimkanov
 
 projects:
-  - title: Cool Project 
-    link: #
+  - title: MBank Online 
+    link: mbank.kg
     details: |
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
       tempor incididunt ut labore et dolore magna aliqua.
 
-  - title: Cool Project 
-    link: #
+  - title: Balance.kg 
+    link: balance.kg
     details: |
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
       tempor incididunt ut labore et dolore magna aliqua.
 
 # Volunteering
-volunteering:
-  - time: 2020-Present
-    role: PR Manager
-    company: Some random organization
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+#volunteering:
+#  - time: 2020-Present
+#    role: PR Manager
+#    company: Some random organization
+#    details: |
+#      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+#      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
+#      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
