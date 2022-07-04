@@ -1,39 +1,29 @@
-name: John Doe
+name: Adilet Begimkanov
 support_dark_mode: true
-fork: true
+fork: false
 
 # Sidebar
 contact:
-  email: info@johndoe.com
-  github: johndoe
-  linkedin: johndoe
-  phone: 
+  email: xeofus@gmail.com
+  github: xeofus
+  linkedin: adilet-begimkanov
+  phone: +996 775 990 090
   gitlab: 
   twitter: 
 
 languages:
   - idiom: English
   - idiom: Russian
-  - idiom: French
 
 education:
-  - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
-
-  - degree: BSc in Computer Science
-    time: 2010-2014
-    university: Ionian University
+  - degree: BSc in Finance
+    time: 2018-2022
+    university: National University of Kyrgyzstan
 
 skills:
   - category: Backend
     skill: 
-      - Go
-      - Rust
-  - category: Frontend
-    skill:
-      - React
-      - Typescript
+      - Java
   - category: DevOps
     skill:
       - Docker
