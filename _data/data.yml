@@ -31,11 +31,9 @@ skills:
 
 # Profile
 profile: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-  fugiat nulla pariatur.
+  - 10 years of professional experience in Web application and API server development, and system design.
+  - 5 years of experience in team leading, management and team mentoring.
+  - Founder of an IT company in Kyrgyzstan.
 
 # Experience
 experience:
@@ -43,11 +41,8 @@ experience:
     time: 2022-Present
     company: OJSC Commercial Bank Kyrgyzstan 
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+      Biggest mobile banking app in my country.
+      I help teams in my org to adopt development practices and hire the best.
     technologies_used: | 
       Java, Docker, Kubernetes, PostgreSQL
   
@@ -55,11 +50,7 @@ experience:
     time: 2020-2022
     company: VEON
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+      Biggest ewallet app in my country. 
     technologies_used: | 
       Java, Angular, Docker, PostgreSQL
 
