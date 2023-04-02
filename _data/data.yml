@@ -7,7 +7,7 @@ contact:
   email: xeofus@gmail.com
   github: xeofus
   linkedin: abegimkanov
-  phone: +996 775 990 090
+  phone: +1 626 5868846
   gitlab: 
   twitter: 
 
@@ -16,7 +16,7 @@ languages:
   - idiom: Russian
 
 education:
-  - degree: BSc in Finance
+  - degree: Bachelor
     time: 2018-2022
     university: National University of Kyrgyzstan
 
@@ -67,14 +67,10 @@ projects:
   - title: MBank Online 
     link: mbank.kg
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
 
   - title: Balance.kg 
     link: balance.kg
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
 
 # Volunteering
 #volunteering:
